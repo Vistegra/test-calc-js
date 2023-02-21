@@ -25,7 +25,7 @@
 - W L - длина и ширина каркаса
 - Wc Lc - длина и ширина ячейки
 
-"Строим" что-то подобное:
+"Строим" что-то подобное:<br>
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/photo.jpg" alt="photo" style="height: 150px;"/>
 
 ### Часть 2- Вывод<sup><a href="#added">d1</a></sup> + корзина<sup><a href="#added">d2</a></sup>:
