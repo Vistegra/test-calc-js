@@ -20,7 +20,9 @@
 Ячейка может быть не квадратной.
 - Найти количество саморезов, с учетом количества на квадртный метр (поле value из Конфига) и материала листа из БД
 
-!(Схема)[https://github.com/Vistegra/test-calc-js/image/master/frame.jpg]
+<img src="https://github.com/Vistegra/test-calc-js/blob/master/frame.jpg" alt="test" />
+
+!(Схема)[https://github.com/Vistegra/test-calc-js/blob/master/frame.jpg]
 - W L - длина и ширина каркаса
 - Wc Lc - длина и ширина ячейки
 !(Упрощенный расчет примерно этого)[https://github.com/Vistegra/test-calc-js/image/master/photo.jpg]
