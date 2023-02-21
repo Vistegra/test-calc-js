@@ -5,8 +5,8 @@
 Внешний вид достаточный для проверки задания.
 
 Ресурсы:<br>
-Файл [data.json](https://github.com/Vistegra/test-calc-js/data/master/data.json), далее "БД" - содержит данные из каталога.<br>
-Файл [config.json](https://github.com/Vistegra/test-calc-js/data/master/config.json), далее "Конфиг" - содержит данные конфигурации.
+Файл [data.json](https://github.com/Vistegra/test-calc-js/blob/master/data/data.json), далее "БД" - содержит данные из каталога.<br>
+Файл [config.json](https://github.com/Vistegra/test-calc-js/blob/master/data/config.json), далее "Конфиг" - содержит данные конфигурации.
 
 ### Часть 1- Вводные данные<sup><a href="#added">d1</a></sup>:
 - секция выбора материала: листы покрытия из БД<sup><a href="#added">1</a></sup>
