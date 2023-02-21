@@ -22,8 +22,8 @@
 - Найти количество саморезов, с учетом количества на квадртный метр (поле value из Конфига) и материала листа из БД
 
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/frame.jpg" alt="frame" style="height: 150px;"/>
-- W L - длина и ширина каркаса
-- Wc Lc - длина и ширина ячейки
+- L и W - длина и ширина каркаса
+- Lc и Wc - длина и ширина ячейки
 
 "Строим" что-то подобное:<br>
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/photo.jpg" alt="photo" style="height: 150px;"/>
