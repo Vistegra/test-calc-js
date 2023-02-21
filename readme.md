@@ -23,7 +23,8 @@
 
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/frame.jpg" alt="frame" style="height: 150px;"/>
 - L и W - длина и ширина каркаса<br>
-- Lc и Wc - длина и ширина ячейки
+- Lc и Wc - длина и ширина ячейки<br>
+
 
 "Строим" что-то подобное:<br>
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/photo.jpg" alt="photo" style="height: 150px;"/>
