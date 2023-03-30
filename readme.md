@@ -30,7 +30,7 @@
 "Строим" что-то подобное:<br>
 <img src="https://github.com/Vistegra/test-calc-js/blob/master/photo.jpg" alt="photo" style="height: 150px;"/>
 
-### Часть 2- Вывод<sup><a href="#added">d1</a></sup> + корзина<sup><a href="#added">d2</a></sup>:
+### Часть 2- Результат<sup><a href="#added">d1</a></sup><sup> (Корзина<a href="#added">d2</a></sup>, не обязательно):
 Вывести площадь изделия, например: 12 м2 
 Вывести расчетный размер ячейки, например: 0.96х0.96м
 
